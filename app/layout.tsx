@@ -20,6 +20,8 @@ const nav = [
   { href: "/roles", label: "Roles" },
   { href: "/maps", label: "Maps" },
   { href: "/deduce", label: "Deduction" },
+  { href: "/collectibles", label: "Collectibles" },
+  { href: "/trading", label: "Trading" },
 ];
 
 const sisterSites = [

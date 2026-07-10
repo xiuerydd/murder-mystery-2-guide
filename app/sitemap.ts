@@ -3,7 +3,8 @@ const DOMAIN = "https://mm2.robloxguides.xyz";
 export default function sitemap(): MetadataRoute.Sitemap {
   const paths = [
     "", "/roles", "/maps", "/deduce", "/knives", "/strategy",
-    "/seasonal", "/gun-guide", "/about", "/contact",
+    "/seasonal", "/gun-guide", "/collectibles", "/trading",
+    "/about", "/contact",
     "/privacy", "/terms", "/cookie-policy",
   ];
   return paths.map((p) => ({
